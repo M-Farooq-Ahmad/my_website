@@ -64,9 +64,9 @@ const Navbar = () => {
         <NavLogo to="/" className="text-white text-3xl font-bold space-x-1">
           <span className="text-[#854CDA] text-3xl">{"<"}</span>
 
-          <span className="">Tabish</span>
+          <span className="">Farooq</span>
           <span className="text-[#854CDA]">{"/"}</span>
-          <span className="">Akhtar</span>
+          <span className="">Ahmad</span>
           <span className="text-[#854CDA] text-3xl">{">"}</span>
           {/* <DiCssdeck size="3rem" /> <Span>Portfolio</Span> */}
         </NavLogo>
